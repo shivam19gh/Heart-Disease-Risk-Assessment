@@ -19,19 +19,7 @@ c) scikit-learn: For machine learning models and preprocessing.
 Other Tools:
 
 a) Jupyter Notebook: For interactive coding and visualization.
-## Tools and Libraries Used
 
-Python Libraries:
-
-a) numpy and pandas: For data manipulation and numerical computations.
-
-b) matplotlib and seaborn: For data visualization.
-
-c) scikit-learn: For machine learning models and preprocessing.
-
-Other Tools:
-
-a) Jupyter Notebook: For interactive coding and visualization.
 ## Dataset
 
 The dataset used for this project includes various features related to heart health, such as:
